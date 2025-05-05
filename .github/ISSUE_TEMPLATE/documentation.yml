@@ -1,0 +1,28 @@
+---
+name: "📕 Documentation Issue"
+description: Report an issue in the User Guide or Q Developer for GitHub app or marketplace description
+title: "Documentation: (short issue description)"
+labels: [documentation]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        AWS Documentation issue? Raise an issue here: https://docs-feedback.aws.amazon.com/
+
+  - type: textarea  
+    id: description
+    attributes:
+      label: Describe the issue
+      description: A clear and concise description of the issue.
+    validations:
+      required: true
+
+  - type: textarea
+    id: links
+    attributes:
+      label: Links
+      description: |
+        Include links to affected documentation page(s).
+    validations:
+      required: true
