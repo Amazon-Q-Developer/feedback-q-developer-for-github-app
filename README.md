@@ -8,8 +8,9 @@ can be found on its app listing page:
 Getting Help
 ------------
 
-The Q Developer for GitHub app is free to use without an AWS account. If you do not
-have an AWS account, the best way to interact with our team is through GitHub.
+The Amazon Q Developer integration for GitHub (preview) is available for free
+without the need to set up an AWS account to get started. If you do not have
+an AWS account, the best way to interact with our team is through GitHub.
 You can [open an issue](https://github.com/Amazon-Q-Developer/feedback-q-developer-for-github-app/issues/new/choose) and
 choose from one of our templates for guidance, bug reports, or feature requests.
 Please check for open similar [issues](https://github.com/Amazon-Q-Developer/feedback-q-developer-for-github-app/issues/) before opening another one.
