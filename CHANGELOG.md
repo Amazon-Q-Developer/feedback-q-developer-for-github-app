@@ -1,5 +1,8 @@
 ## Changelog
 
+#### 2025-05-14
+* PR reviews will trigger only for PR open/reopen events. Auto PR reviews will not trigger when a PR/MR is updated. We are adding a way to manually trigger a review.
+
 #### 2025-05-09
 
 * Added the ability for the development agent to create / update to GitHub workflows.
