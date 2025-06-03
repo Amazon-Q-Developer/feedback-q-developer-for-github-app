@@ -1,5 +1,8 @@
 ## Changelog
 
+### 2025-06-02
+* PR reviews can be triggered with slash commands. You can initiate additional code reviews to iterate on your code using the /q review slash command. The code review is performed on the entire pull request's diff. [Initiating code reviews with Amazon Q Developer in GitHub pull requests](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/github-code-reviews.html)
+
 #### 2025-05-14
 * PR reviews will trigger only for PR open/reopen events. Auto PR reviews will not trigger when a PR/MR is updated. We are adding a way to manually trigger a review.
 
