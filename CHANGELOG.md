@@ -1,6 +1,6 @@
 ## Changelog
 
-2025-06-10
+###2025-06-10
 Code transforms and the Q Developer agent can be triggered with slash commands. When creating an issue or configuring an existing issue, you can trigger the Q Developer agent by issuing /q dev slash command. Also you can initiate java upgrade using the /q transform slash command in an issue. 
 
 ### 2025-06-02
