@@ -1,5 +1,10 @@
 ## Changelog
 
+### 2025-06-13
+* Bug fixes addressing issues in the Q Developer Software Agent experience, including:
+  - Code generation outputs misalignment with pull request descriptions
+  - Inconsistencies in code iteration that were causing import statement placement issues
+
 ### 2025-06-10
 * Code transforms and the Q Developer agent can now be triggered with slash commands. When creating an issue or configuring an existing issue, you can trigger the Q Developer agent by issuing /q dev slash command. Also you can initiate java upgrade using the /q transform slash command in an issue. 
 
