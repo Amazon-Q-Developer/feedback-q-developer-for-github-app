@@ -6,7 +6,7 @@
   - Inconsistencies in code iteration that were causing import statement placement issues
 
 ### 2025-06-10
-* Code transforms and the Q Developer agent can now be triggered with slash commands. When creating an issue or configuring an existing issue, you can trigger the Q Developer agent by issuing /q dev slash command. Also you can initiate java upgrade using the /q transform slash command in an issue. 
+* Code transforms and the Q Developer agent can now be triggered with slash commands. When creating an issue or configuring an existing issue, you can trigger the Q Developer agent by issuing /q dev slash command. Also you can initiate java upgrade using the /q transform slash command in an issue. [Amazon Q Developer agents](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/amazon-q-for-github.html#github-agents)
 
 ### 2025-06-02
 * PR reviews can be triggered with slash commands. You can initiate additional code reviews to iterate on your code using the /q review slash command. The code review is performed on the entire pull request's diff. [Initiating code reviews with Amazon Q Developer in GitHub pull requests](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/github-code-reviews.html)
