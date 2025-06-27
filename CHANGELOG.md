@@ -1,5 +1,8 @@
 ## Changelog
 
+### 2025-06-27
+* Added custom project rules support for enforcing project-specific code standards and best practices when Q is invoked to perform feature development. [Creating Project Rules for Amazon Q Developer](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/third-party-context-project-rules.html)
+
 ### 2025-06-13
 * Bug fixes addressing issues in the Q Developer Software Agent experience, including:
   - Code generation outputs misalignment with pull request descriptions
