@@ -2,6 +2,12 @@
 
 #### 2025-07-03
 * Added the /q help command for developers to quickly check what Q commands are available
+  
+#### 2025-07-02
+* Enabled support for top-level pull request feedback when iterating on a pull request with the Q Developer agent
+* Added transparency for background tasks when working with Q Developer on an issue
+* Raised word count limits for comments and issues when working with Q Developer agent
+* Bug fixes addressing silent failure of Q Developer agent, due to permission issues
 
 #### 2025-06-27
 * Added custom project rules support for enforcing project-specific code standards and best practices when Q is invoked to perform feature development. [Creating Project Rules for Amazon Q Developer](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/third-party-context-project-rules.html)
