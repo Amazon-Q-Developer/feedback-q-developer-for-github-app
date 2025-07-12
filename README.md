@@ -1,9 +1,4 @@
 # Amazon Q Developer - AI-Powered Coding Assistant for GitHub
-
-[![GitHub Stars](https://img.shields.io/github/stars/Amazon-Q-Developer/amazon-q-developer-github-app?style=social)](https://github.com/Amazon-Q-Developer/feedback-q-developer-for-github-app/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/Amazon-Q-Developer/feedback-q-developer-for-github-app?style=flat)](https://github.com/Amazon-Q-Developer/feedback-q-developer-for-github-app/issues)
-[![License](https://img.shields.io/badge/license-AWS-orange)](https://aws.amazon.com/agreement/)
-
 **Supercharge your development workflow with AI-powered code generation, review, and Java transformation - all through GitHub issues and pull requests!**
 
 
@@ -17,9 +12,6 @@ Transform ideas into production-ready code in minutes! Use natural language to:
 - Write technical documentation
 - Optimize algorithms and performance
 
-<div align="center">
-  <img src="GIFs/QCT_Label_assignment.gif" alt="Using Amazon Q Developer labels to activate AI assistance in GitHub" width="600"/>
-</div>
 
 ### 🔄 Automated Java Transformation
 Modernize legacy Java codebases in a fraction of the time:
@@ -28,9 +20,6 @@ Modernize legacy Java codebases in a fraction of the time:
 - Implement modern Java features
 - Enhance application performance
 
-<div align="center">
-  <img src="GIFs/CodeTransform.gif" alt="Amazon Q Developer automatically transforming Java code from version 8/11 to 17" width="600"/>
-</div>
 
 ### 🔍 Intelligent Code Review
 Ship better code faster with AI-powered code reviews:
