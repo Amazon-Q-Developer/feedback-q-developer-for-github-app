@@ -29,7 +29,7 @@ Ship better code faster with AI-powered code reviews:
 - Best practice recommendations
 - Style and consistency enforcement
 - Interactive comments
-- PR and code review summaries
+- Ccode review summaries
 
 ## 🛠️ Custom Project Rules
 
