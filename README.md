@@ -28,6 +28,8 @@ Ship better code faster with AI-powered code reviews:
 - Code quality suggestions
 - Best practice recommendations
 - Style and consistency enforcement
+- Interactive comments
+- Code review summaries
 
 ## 🛠️ Custom Project Rules
 
