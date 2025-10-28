@@ -8,3 +8,14 @@ body:
     attributes:
       value: |
         See https://health.aws.amazon.com/health/status for AWS health
+  - type: dropdown
+    id: status
+    attributes:
+      label: Current status of the event
+      options:
+        - Ongoing
+        - In recovery
+        - Resolved
+    validations:
+      required: true
+      
