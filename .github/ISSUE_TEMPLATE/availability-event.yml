@@ -4,51 +4,52 @@ title: "[Issue Notice] YYYY-MM-DD - {brief description of event}"
 labels: ["service availability"]
 assignees: []
 body:
-  - type: markdown
+  - type: dropdown
+    id: status
     attributes:
-      value: |
-        See https://health.aws.amazon.com/health/status for AWS health
-
-  - type: markdown  
-    id: description
-    attributes:
-      label: Describe the availability event
-      description: A clear and concise description of the event.
+      label: Current status of the event
+      options:
+        - Ongoing
+        - In recovery
+        - Resolved
     validations:
       required: true
-      
   - type: input
     id: start_time
     attributes:
       label: YYYY/MM/DD hh:mm UTC
+      placeholder: YYYY/MM/DD hh:mm UTC
       description: Start Date and Time (UTC)
     validations:
+      required: true      
+  - type: markdown  
+    id: description
+    attributes:
+      value: |
+        ## Event Summary
+        
+        A clear and concise summary of the event.
+    validations:
       required: true
-
   - type: markdown  
     id: timeline
     attributes:
-      label: Event timeline
-      description: Times when events occurred
       value: |
+        ## Event Timeline
+        
         1. 10/20/2025 12:00 AM UTC ...
         2. ...
-
-
   - type: markdown  
     id: alarms
     attributes:
-      label: Relevant Alarm Thresholds Breached
-      description: Description of alarms and thresholds which were breached
+      value: |
+        ## Relevant Alarm Thresholds Breached
+        
+        Description of alarms and thresholds which were breached
 
-- type: dropdown
-  id: status
-  attributes:
-    label: Current status of the event
-    options:
-      - Ongoing
-      - In recovery
-      - Resolved
-  validations:
-    required: true
+  - type: markdown
+    attributes:
+      value: |
+        ----
       
+        For latest status, see https://health.aws.amazon.com/health/status
