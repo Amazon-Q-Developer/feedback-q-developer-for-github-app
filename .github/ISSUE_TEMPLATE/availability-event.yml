@@ -36,8 +36,6 @@ body:
         ## Relevant Alarm Thresholds Breached
         
         Description of alarms and thresholds which were breached
-      label: 
-      description: 
   - type: dropdown
     id: status
     attributes:
