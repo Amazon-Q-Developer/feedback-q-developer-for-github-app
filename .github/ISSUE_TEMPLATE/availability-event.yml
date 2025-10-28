@@ -1,4 +1,3 @@
----
 name: "🚨 Availability Event"
 description: Report an availability event
 title: "[Issue Notice] YYYY-MM-DD - {brief description of event}"
