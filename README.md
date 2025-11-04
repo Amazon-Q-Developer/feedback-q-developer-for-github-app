@@ -1,7 +1,6 @@
 # Amazon Q Developer - AI-Powered Coding Assistant for GitHub
 **Supercharge your development workflow with AI-powered code generation, review, and Java transformation - all through GitHub issues and pull requests!**
 
-
 ## 🚀 Features
 
 ### 💻 AI-Powered Development
@@ -98,3 +97,6 @@ By installing, you agree to the [AWS Customer Agreement](https://aws.amazon.com/
 
 <!-- GitHub Topics -->
 <!-- ai-assistant, developer-tools, code-generation, java-transformation, code-review, github-integration, aws, amazon-q, productivity, automation, ai-coding, generative-ai, development-workflow, pull-request-automation, issue-automation, testing-automation, documentation-generation, debugging-assistant, java-upgrade, code-quality -->
+
+Adsfing a link to documentation: https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/third-party-context-project-rules.html
+
