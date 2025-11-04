@@ -44,7 +44,7 @@ project-root/
         └── team-conventions.md
 ```
 
-[Learn more about custom rules](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/project-rules.html)
+[Learn more about custom rules](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/third-party-context-project-rules.html)
 
 ## 🏁 Quick Start Guide
 
