@@ -1,0 +1,1 @@
+All GitHub Pull Request titles, descriptions, and comments must be written in the Korean language.
