@@ -29,6 +29,7 @@ Ship better code faster with AI-powered code reviews:
 - Best practice recommendations
 - Style and consistency enforcement
 - Interactive comments
+- PR revisions with feedback implementation 
 - Code review summaries
 
 ## 🛠️ Custom Project Rules
