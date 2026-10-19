@@ -1,5 +1,16 @@
 # Amazon Q Developer - AI-Powered Coding Assistant for GitHub
-**Supercharge your development workflow with AI-powered code generation, review, and Java transformation - all through GitHub issues and pull requests!**
+
+> [!IMPORTANT]
+>
+> **Amazon Q Developer for GitHub: end of support**
+>
+> On January 30, 2027, AWS will discontinue support for the Amazon Q Developer for GitHub App. New app installations will no longer be available starting November 18, 2026.
+>
+> For capabilities similar to the Amazon Q Developer for GitHub App, explore Kiro and the Kiro GitHub App to access the latest models and features, including agentic coding, chat and MCP support. For more information, see [Kiro GitHub App](https://kiro.dev/docs/web/github) on the Kiro website.
+>
+> For more information about the end of support, see [Amazon Q Developer end-of-support announcement](https://aws.amazon.com/blogs/devops/amazon-q-developer-end-of-support-announcement/) on the AWS DevOps Blog.
+
+**Supercharge your development workflow with AI-powered code generation and review - all through GitHub issues and pull requests!**
 
 
 ## 🚀 Features
@@ -12,15 +23,6 @@ Transform ideas into production-ready code in minutes! Use natural language to:
 - Write technical documentation
 - Optimize algorithms and performance
 
-
-### 🔄 Automated Java Transformation
-Modernize legacy Java codebases in a fraction of the time:
-- Upgrade from Java 8/11 to Java 17 automatically
-- Refactor deprecated APIs
-- Implement modern Java features
-- Enhance application performance
-
-
 ### 🔍 Intelligent Code Review
 Ship better code faster with AI-powered code reviews:
 - Automatic PR analysis
@@ -28,9 +30,6 @@ Ship better code faster with AI-powered code reviews:
 - Code quality suggestions
 - Best practice recommendations
 - Style and consistency enforcement
-- Interactive comments
-- PR revisions with feedback implementation 
-- Code review summaries
 
 ## 🛠️ Custom Project Rules
 
@@ -45,26 +44,17 @@ project-root/
         └── team-conventions.md
 ```
 
-[Learn more about custom rules](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/third-party-context-project-rules.html)
+[Learn more about custom rules](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/project-rules.html)
 
 ## 🏁 Quick Start Guide
 
 1. **Install**: [Add Amazon Q Developer](https://github.com/marketplace/amazon-q-developer) from the GitHub Marketplace (free, no AWS account required)
 2. **Activate**:
    - For development help: Add the **Amazon Q development** label to issues or use `/q dev` in comments
-   - For Java transformation: Add the **Amazon Q transform** label or use `/q transform` in comments
    - For code review: Automatic on PRs or use `/q review` in PR comments
 3. **Boost limits** (optional): [Register with your AWS account](https://us-east-1.console.aws.amazon.com/amazonq/developer/home?region=us-east-1#/github/register) for higher usage limits
 
 Need help? Type `/q help` in any GitHub issue or PR comment!
-
-## 🔋 Browser Extensions
-
-Work even faster with our browser extensions that add a dedicated Amazon Q button directly to your GitHub issues:
-
-[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/amazon-q-github-issue-hel/oefafjbablenakmhacfllkmpaeabnnfi)
-[![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--on-FF7139?logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/amazon-q-github-issue-helper/)
-[![Edge Add-on](https://img.shields.io/badge/Edge-Add--on-0078D7?logo=microsoft-edge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/amazon-q-github-issue-h/poghackjbfhejeppjaegbnblangjbmmc)
 
 ## 💬 Support & Resources
 
@@ -98,4 +88,4 @@ By installing, you agree to the [AWS Customer Agreement](https://aws.amazon.com/
 </div>
 
 <!-- GitHub Topics -->
-<!-- ai-assistant, developer-tools, code-generation, java-transformation, code-review, github-integration, aws, amazon-q, productivity, automation, ai-coding, generative-ai, development-workflow, pull-request-automation, issue-automation, testing-automation, documentation-generation, debugging-assistant, java-upgrade, code-quality -->
+<!-- ai-assistant, developer-tools, code-generation, code-review, github-integration, aws, amazon-q, productivity, automation, ai-coding, generative-ai, development-workflow, pull-request-automation, issue-automation, testing-automation, documentation-generation, debugging-assistant, code-assistant, java-upgrade, code-quality -->
